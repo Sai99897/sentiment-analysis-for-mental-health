@@ -19,7 +19,7 @@ This repository contains comparision between performance of classical Machine le
     <th>Performance metrics of XGBoost model</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20BERT%20model.png" width="250"/></td>
-    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20XG%20boost%20model.png" width="250"/></td>
+    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20BERT%20model.png" width="500"/></td>
+    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20XG%20boost%20model.png" width="500"/></td>
   </tr>
 </table>

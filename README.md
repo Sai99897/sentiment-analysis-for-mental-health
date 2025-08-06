@@ -9,3 +9,17 @@ This repository contains comparision between performance of classical Machine le
 ### Loss and accuracy plots of BERT model
 
 ![](https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/d9eb67caa15e95b2fdf03f831dbaba789e548166/loss_function_with_downsampling.png)
+
+
+
+
+<table>
+  <tr>
+    <th>Performance metrics of BERT model</th>
+    <th>Performance metrics of XGBoost model</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20BERT%20model.png" width="250"/></td>
+    <td><img src="https://github.com/Sai99897/sentiment-analysis-for-mental-health/blob/a0cc27f220ea2df09bf567390f9f142393db7a20/results/Evaluation_metrics%20for%20XG%20boost%20model.png" width="250"/></td>
+  </tr>
+</table>
